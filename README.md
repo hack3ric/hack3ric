@@ -6,7 +6,7 @@
 - 🚫 Not an OIer
 - 🎭 INFP
 
-My GPG signature is `3A7A 1F5A 7257 780C 45A9 A147 E148 7564 916D 3DF5`.
+My GPG signature is `B4C3 FC26 602F 8BB2 A40B 9C77 583F AB40 05C6 52BE`.
 
 [![Eric Long's GitHub stats](https://github-readme-stats.vercel.app/api?username=hackerer1c&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
