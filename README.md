@@ -1,6 +1,5 @@
 ### Hello. Hacker's here.
 
-- 🎓 Undergraduate at UESTC, majoring in Information and Communication Engineering
 - 🌟 Believe in my own creativity
 - 👨🏻‍💻 Stack: Rust (Tokio), Web (TypeScript, React), Lua
 - 🚫 Not an OIer
