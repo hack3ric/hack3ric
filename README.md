@@ -1,7 +1,8 @@
-### Hello. Hacker's here.
+### hello. hacker's here.
 
 - 🌟 Believe in my own creativity
 - 👨🏻‍💻 Stack: Rust (Tokio), Web (TypeScript, React), Lua
+- 📻 Newbie HAM Operator
 - 🚫 Not an OIer
 - 🎭 INFP
 
